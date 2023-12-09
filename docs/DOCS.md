@@ -11,6 +11,7 @@ The `dijkstra` function calculates the shortest path from a specified source
 vertex to all other vertices using Dijkstra's algorithm.
  
 Date: 12/9/2023
+
 Author: An Bui
  ********************************************************************************/
 
