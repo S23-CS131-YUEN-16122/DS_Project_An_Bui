@@ -1,4 +1,4 @@
-/********************************************************************************
+
 
 Dijkstra's Algorithm Implementation
  
@@ -13,5 +13,4 @@ vertex to all other vertices using Dijkstra's algorithm.
 Date: 12/9/2023
 
 Author: An Bui
- ********************************************************************************/
 
