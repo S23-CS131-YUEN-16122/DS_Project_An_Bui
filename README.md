@@ -1,7 +1,7 @@
 # Dijkstra's Algorithm
 
-* /docs - explains other findings of Dijkstra's Algorithm
+* /docs - has documentation of my implementation
 
-* /presentation - has pdf of my presentation and mp4 of my video
+* /presentation - has pdf and mp4 of my presentation
 
-* /src - has a simple demonstration of how Dijkstra's Algorithm can be implemented in code
+* /src - has implemention file of Dijkstra's Algorithm
