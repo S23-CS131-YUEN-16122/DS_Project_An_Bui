@@ -1,5 +1,4 @@
-# DS_Project_An_Bui
-My project is about Dijkstra's Algorithm.
+# Dijkstra's Algorithm
 
 /docs - explains other findings of Dijkstra's Algorithm
 
