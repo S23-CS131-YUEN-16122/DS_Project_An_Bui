@@ -25,8 +25,8 @@ int main() {
   return 0;
 }
 
-// Function to find the vertex with the minimum distance value
-// from the set of vertices not yet included in the shortest path tree
+// Find the vertex with the minimum distance value from the 
+// set of vertices not yet included in the shortest path tree
 int minDistance(int dist[], bool sptSet[]) {
   int minDist = INT_MAX, minIndex = -1;
 
@@ -40,7 +40,7 @@ int minDistance(int dist[], bool sptSet[]) {
   return minIndex;
 }
 
-// Function to print the constructed distance array
+// Print the distance array
 void printSolution(int dist[]) {
   cout << left << setw(10) << "Vertex" << setw(15) << "Distance from Source\n";
   for (int i = 0; i < VERTICES; ++i) {
@@ -48,7 +48,7 @@ void printSolution(int dist[]) {
   }
 }
 
-// Function that implements Dijkstra's single source shortest path algorithm
+// Implements Dijkstra's shortest path algorithm
 void dijkstra(int graph[VERTICES][VERTICES], int src) {
   int dist[VERTICES];    // The output array dist[i] holds the shortest distance
                          // from src to i
